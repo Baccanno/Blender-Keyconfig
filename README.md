@@ -1,3 +1,6 @@
+#Fork :
+Original Repo is archived. Made a fork to update it to 2.8X API
+
 # Blender-Keyconfig
 
 This project's goal is creating keyconfig.py which behaves like Unity. Pull requests are welcome.
